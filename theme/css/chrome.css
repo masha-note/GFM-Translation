@@ -486,7 +486,7 @@ ul#searchresults span.teaser em {
     list-style: none outside none;
     padding-inline-start: 0;
     line-height: 2.2em;
-    font-size: large;
+    font-size: 2em;
 }
 
 .chapter ol {
